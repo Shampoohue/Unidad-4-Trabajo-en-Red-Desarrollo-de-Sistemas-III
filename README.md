@@ -22,6 +22,6 @@ Imagenes:
 
 
 * WriteServer
-  <img width="479" height="268" alt="2" src="https://github.com/user-attachments/assets/c5c867c1-aeec-417f-9efc-907480325de8" />
+<img width="479" height="268" alt="2" src="https://github.com/user-attachments/assets/c5c867c1-aeec-417f-9efc-907480325de8" />
 
 
