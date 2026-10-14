@@ -18,8 +18,10 @@ Si se tiene problemas con la ejecución, se tiene que establecer la direccion co
 
 Imagenes:
 * Resultado de WhoIs.java
-<img width="1129" height="647" alt="image" src="https://github.com/user-attachments/assets/d99f1987-df3c-406e-b0d9-754211a1d833" />
+<img width="1129" height="647" alt="1" src="https://github.com/user-attachments/assets/8dd29fd6-a62a-4a69-ae8f-143be285e6e1" />
+
 
 * WriteServer
-  <img width="479" height="268" alt="image" src="https://github.com/user-attachments/assets/d7d0c548-45e4-45be-841a-81fb3ea225e4" />
+  <img width="479" height="268" alt="2" src="https://github.com/user-attachments/assets/c5c867c1-aeec-417f-9efc-907480325de8" />
+
 
